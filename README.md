@@ -2,7 +2,7 @@
 
 ## Description
 
-**ф** App is a SwiftUI application that allows you to authenticate and authorize and make purchases in an online electronics store. The project consists of several files with source code. The application architecture follows the MVC pattern. To create an intuitive and user-friendly interface, the application was designed using the Figma online service. Project documentation, including the problem statement and other materials, is available on the project wiki. The application allows you to view the product catalog, add products to favorites and shopping cart, view the location of offline stores on the map.
+**ф** App is an application that allows you to 
 
 ## Installation
 
