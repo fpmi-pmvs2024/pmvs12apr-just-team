@@ -5,13 +5,11 @@
 **The TV Series**  project is an Android application that allows users to discover, explore, and manage information about their favorite TV shows. The application is built using a modern Android technology stack, leveraging the power of Kotlin, Jetpack Compose, and various other libraries and frameworks.
 
 
-
 ## Installation
 
-1. 
-2. 
-3. 
-4. 
+1. Download APK file.
+2. Install it on Android phone.
+3. Launch app.
  
 ## Usage
 
