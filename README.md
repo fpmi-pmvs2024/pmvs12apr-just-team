@@ -1,8 +1,10 @@
-# Project Name: **""**
+# Project Name: **"TV Series"**
 
 ## Description
 
-**ф** App is an application that allows you to 
+**The TV Series**  project is an Android application that allows users to discover, explore, and manage information about their favorite TV shows. The application is built using a modern Android technology stack, leveraging the power of Kotlin, Jetpack Compose, and various other libraries and frameworks.
+
+
 
 ## Installation
 
@@ -14,8 +16,7 @@
 ## Usage
 
 1. Open the app on your phone.
-2. Log in or register.
-3. Test app features.
+2. Test app features.
 
 ## Contributing
 
@@ -31,7 +32,8 @@ Project authors:
      - Team Leader;
      - Project management in Kanban style;
      - Project documentation in Github Wiki/Pages;
-     - Designing and optimizing the database for storing application data;
+     - Testing the application code;
+     - Testing the project with Github Actions.
      - Implementation of diagrams.
 
      
