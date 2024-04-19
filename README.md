@@ -20,9 +20,10 @@
 
 Project authors:
 - [**Andreeva Anastasia**](https://github.com/woaml)
-     - Creation of project presentation;     
      - Writing application code;
      - Testing the application code;
+     - Project documentation in Github Wiki/Pages;
+     - Implementation of diagrams.
      - Designing and optimizing the database for storing application data;
      - Testing the project with Github Actions.
 
@@ -34,6 +35,5 @@ Project authors:
      - Project documentation in Github Wiki/Pages;
      - Testing the application code;
      - Testing the project with Github Actions.
-     - Implementation of diagrams.
 
      
