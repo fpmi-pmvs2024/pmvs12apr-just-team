@@ -29,6 +29,8 @@ Project authors:
 - [**Chernyshova Ksenia**](https://github.com/xenia155) 
      - Team Leader;
      - Project management in Kanban style;
+     - Creation of project presentation;     
+     - Writing application code;
      - Project documentation in Github Wiki/Pages;
      - Testing the application code;
      - Testing the project with Github Actions.
