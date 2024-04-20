@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TV Series</string>
+    <string name="trend_movies">Trend Movies</string>
+    <string name="all_films">All Films</string>
+    <string name="vote_count">Vote Count</string>
+    <string name="vote_average">Vote Average</string>
+    <string name="popularity">Popularity</string>
+    <string name="cast">Cast</string>
+    <string name="network_error">Check your internet connection!</string>
+</resources>
